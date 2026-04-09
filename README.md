@@ -7,7 +7,7 @@ calculate the scattering field distribution at the target location and compare i
 calculate the force curve in the set direction
 # Optical_trap_stiffness.m
 calculate the stiffness of the optical trap in the set direction
-# photophoresis_force_position.m
+# photophoretic_force_position.m
 calculate the photophoretic force curve in the set direction
 # scattering_filed.m
 calculate the scattering field distribution at the target location
